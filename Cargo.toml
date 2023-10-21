@@ -2,9 +2,10 @@
 name = "rubik"
 version = "0.1.0"
 edition = "2021"
-license = "MIT"
 license-file = "LICENSE"
 description = "A Rubik's cube library"
+repository = "https://github.com/TN19N/rubik"
+homepage = "https://github.com/TN19N/rubik"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
