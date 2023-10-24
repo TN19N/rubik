@@ -2,8 +2,10 @@ name: Publish
 
 on:
   workflow_run:
-    workflows: [Test]
-    branches: [main]
+    workflows:
+      - Test
+    branches:
+      - main
     types:
       - completed
 
