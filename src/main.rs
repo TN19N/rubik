@@ -1,3 +1,1 @@
-fn main() {
-    eprintln!("Hello! World")
-}
+fn main() {}

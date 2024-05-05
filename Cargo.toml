@@ -2,11 +2,12 @@
 name = "rubik"
 version = "0.1.1"
 edition = "2021"
-license-file = "LICENSE"
+authors = ["Mustapha Annouaoui (TN19N) <mostafaanawawi@gmail.com>"]
 description = "A Rubik's cube library"
 repository = "https://github.com/TN19N/rubik"
 homepage = "https://github.com/TN19N/rubik"
 documentation = "https://docs.rs/rubik"
 readme = "README.md"
-
-[dependencies]
+license = "MIT"
+keywords = ["rubik_solver", "cube", "game_solver"]
+categories = ["Simulation", "Algorithms", "Command line utilities"]
